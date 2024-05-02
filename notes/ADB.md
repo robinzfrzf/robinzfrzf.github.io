@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /notes/ADB/index.html
+title: ADB
+---
+
 # 环境
 
 真机需要打开usb调试
