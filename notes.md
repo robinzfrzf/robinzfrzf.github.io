@@ -7,4 +7,4 @@ title: Notes
 ## Notes
 
 ### 2024
-- [ADB学习笔记](./ADB)
+- [ADB学习笔记](./notes/ADB.md)
